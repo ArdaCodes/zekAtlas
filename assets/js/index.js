@@ -658,7 +658,7 @@ document.addEventListener('DOMContentLoaded', () => {
     instructions.style.fontSize = '16px';
     instructions.style.lineHeight = '1.5';
     instructions.innerHTML = `
-        <h2>Hadi Coğrafyayı FetheDELIM! 😎</h2>
+        <h2>Hadi Coğrafyayı Fethedelim! 😎</h2>
         <p>Haritada ülkeleri bul, skoru uçur! 🚀<br>
            - Doğru ülkeye çift tıkla.<br>
            - 3 yanlışta oyun biter, dikkat!<br>
